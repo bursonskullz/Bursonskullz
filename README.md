@@ -5,7 +5,7 @@
 <picture>
   <!source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE-URL"> -->
   <!source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE-URL">-->
-  <img alt="Profile image of Roy Burson" src="YOUR-VALID-IMAGE-URL">
+  <img alt="Profile image of Roy Burson" src="https://ibb.co/s9VyL7wH">
 </picture>
 
 ## About Me
