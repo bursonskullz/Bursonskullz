@@ -39,7 +39,7 @@
   - Contributed mathematical expertise to the K&C concrete model for structural analysis, supporting engineering projects under John Crawford, P.E., and Dr. Pedram Hesam, S.E.
  
 ## Key Projects
-- **[NFT Marketplace](https://github.com/bursonskullz/artWebsite)**: A live web application built with HTML, CSS, and JavaScript for selling digital assets. (Note: This repository is private due to sensitive database information, with plans to launch publicly in the future.)
+- **[NFT Marketplace](https://github.com/bursonskullz/artWebsite)**: A live web application built with HTML, CSS, and JavaScript for selling digital assets. (Note: This repository is private due to sensitive database information, with the possibility to launch publicly in the future.)
 - **[Base64 Compression Algorithm](https://github.com/bursonskullz/Base64Compression)**: A nearly completed algorithm in javascript to reduce storage costs of Base64 data, with successful preliminary tests. Theoretical framework published on [ResearchGate](https://www.researchgate.net/publication/384763205_BASE_64_FINITE_COMPRESSION_ALGORITHM).
 - **[Bellman’s Forest Algorithm](https://github.com/bursonskullz/Forest-Algorithm)**: An in-progress project to solve Bellman’s Forest Problem, derived from my article on [ResearchGate](https://www.researchgate.net/publication/377466487_ACCEPTABLE_NUMERICAL_SIMULATION_ON_BELLMAN'S_FOREST_PROBLEM). Development paused due to time constraints.
 
