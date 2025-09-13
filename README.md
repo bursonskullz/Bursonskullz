@@ -16,7 +16,7 @@
 - 💬 **Ask me about**: My repositories and [research papers](https://www.researchgate.net/profile/Roy-Burson-2).
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/roy-burson-047199343/), [X](https://x.com/burson_research), [Upwork](https://www.upwork.com/freelancers/~013a2d8e758f218f85)
 - 😄 **Pronouns**: He/Him
-- ⚡ **Fun fact**: I’ve authored 11 research articles without ever being paid for my research, and I am also an artist but not active in the field!
+- ⚡ **Fun fact**: I am also an artist but not active in the field!
 
 ## GitHub Stats
 ![Roy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bursonskullz&show_icons=true&theme=radical)
